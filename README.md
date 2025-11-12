@@ -6,16 +6,16 @@ This project is an **Android application** designed to translate SMS messages ei
 
 ## **Features**
 
-- 🖼️ **Custom Splash Screen with Animation**: The app begins with an animated splash screen, providing a polished user experience.
+- **Custom Splash Screen with Animation**: The app begins with an animated splash screen, providing a polished user experience.
   
-- 📲 **SMS Translation**:
-  - 🔄 **On-Demand Translation**: Users can manually translate individual SMS messages or their entire inbox with a single action.
-  - 🔧 **Automatic Background Translation**: A background service and broadcast receiver automatically translate new incoming messages, even when the app is closed.
-  - 📶 **Offline Translation**: Uses Google ML Kit's machine learning models for translation without requiring an internet connection.
+- **SMS Translation**:
+  - **On-Demand Translation**: Users can manually translate individual SMS messages or their entire inbox with a single action.
+  - **Automatic Background Translation**: A background service and broadcast receiver automatically translate new incoming messages, even when the app is closed.
+  - **Offline Translation**: Uses Google ML Kit's machine learning models for translation without requiring an internet connection.
 
-- ⚙️ **Settings Activity**: Allows users to customize app preferences, such as selecting their target translation language.
+- **Settings Activity**: Allows users to customize app preferences, such as selecting their target translation language.
 
-- 📩 **Inbox View**: Displays SMS messages in a clean, user-friendly format, with an option to translate directly from the inbox.
+- **Inbox View**: Displays SMS messages in a clean, user-friendly format, with an option to translate directly from the inbox.
 
 ---
 
@@ -29,20 +29,20 @@ When traveling or living in a country with a different primary language, receivi
 
 **SMS Translation** addresses language barriers in SMS communication by providing:
 
-- 🔄 **Translation on Demand**: Users can translate individual messages or their entire SMS inbox, simplifying navigation through messages in different languages.
+- **Translation on Demand**: Users can translate individual messages or their entire SMS inbox, simplifying navigation through messages in different languages.
   
-- 🛠️ **Automatic Translation**: Even when the app is closed, it automatically translates incoming SMS messages in the background.
+- **Automatic Translation**: Even when the app is closed, it automatically translates incoming SMS messages in the background.
 
-- 📶 **Offline Translation**: By leveraging machine learning models, users can translate messages without needing internet connectivity.
+- **Offline Translation**: By leveraging machine learning models, users can translate messages without needing internet connectivity.
 
 ---
 
 ## **Technologies Used**
 
-- ☕ **Java**: Core programming language for Android app development.
-- 📱 **Android SDK**: Framework for developing and managing the Android environment.
-- 🤖 **Google ML Kit**: Machine learning framework for enabling offline SMS translation.
-- 🔄 **Broadcast Receiver & Service**: Manages background processing for automatic SMS translation.
+- **Java**: Core programming language for Android app development.
+- **Android SDK**: Framework for developing and managing the Android environment.
+- **Google ML Kit**: Machine learning framework for enabling offline SMS translation.
+- **Broadcast Receiver & Service**: Manages background processing for automatic SMS translation.
 
 ---
 
